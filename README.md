@@ -1,5 +1,7 @@
 # Simple_IMDB_Clone-CN
 
+Link: https://bannelarohith.github.io/Simple_IMDB_Clone-CN/
+
 This is a Imdb clone website for movie searching.
 
 I have created this project using html css and javascript.
